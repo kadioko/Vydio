@@ -2,23 +2,23 @@ export const PRICING_PACKAGES = [
   {
     id: "pkg_20",
     name: "Starter Pack",
-    credits: 1,
-    price: 5000, // in TZS
+    credits: 2,
+    price: 10000, // in TZS
     currency: "TZS",
   },
   {
     id: "pkg_60",
     name: "Creator Pack",
-    credits: 3,
-    price: 12000,
+    credits: 10,
+    price: 45000,
     currency: "TZS",
     popular: true,
   },
   {
     id: "pkg_150",
     name: "Pro Pack",
-    credits: 6,
-    price: 25000,
+    credits: 25,
+    price: 100000,
     currency: "TZS",
   },
 ]
